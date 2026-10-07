@@ -1,7 +1,9 @@
 # latihanOOP
 
 Nama : Arfaadzin Ghaisan Ismail
+
 kelas : X-RPL
+
 mata pelajaran : Algoritma dan Pemograman Dasar
 
 1. Jelaskan mengapa hasilnya false.
